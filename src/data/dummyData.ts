@@ -22,6 +22,7 @@ import nextjsDark from "../assets/icons/tech-stack/nextjs-dark.svg";
 import react from "../assets/icons/tech-stack/react.svg";
 import typescript from "../assets/icons/tech-stack/typescript.svg";
 import javascript from "../assets/icons/tech-stack/javascript.svg";
+import jwt from "../assets/icons/tech-stack/jwt.svg";
 import redux from "../assets/icons/tech-stack/redux.svg";
 import graphql from "../assets/icons/tech-stack/graphql.svg";
 import nodejs from "../assets/icons/tech-stack/nodejs.svg";
@@ -35,6 +36,9 @@ import vite from "../assets/icons/tech-stack/vite.svg";
 import express from "../assets/icons/tech-stack/express.svg";
 import php from "../assets/icons/tech-stack/php.svg";
 import git from "../assets/icons/tech-stack/git.svg";
+import ejs from "../assets/icons/tech-stack/file_type_ejs_icon_130626.svg";
+import mysql from "../assets/icons/tech-stack/mysql-ar21.svg";
+import discordjs from "../assets/icons/tech-stack/js_discord-icon.svg";
 
 // import assets experience
 import eduqat from "../assets/icons/company-logo/eduqat.svg";
@@ -81,7 +85,7 @@ export const dataLogoSocialMedia: LogoSocialMedia[] = [
   {
     id: 3,
     logo: email,
-    navigate: "mailto:zenaidiketika@gmail.com",
+    navigate: "mailto:hugo.afiza.adinanta@gmail.com",
   },
 ];
 
@@ -117,6 +121,10 @@ export const dataSkills: string[] = [
   css,
   javascript,
   nodejs,
+  jwt,
+  ejs,
+  mysql,
+  discordjs,
 ];
 
 export const dataExperience: Experience[] = [
