@@ -75,7 +75,7 @@ export const dataLogoSocialMedia: LogoSocialMedia[] = [
   {
     id: 1,
     logo: medium,
-    navigate: "https://www.instagram.com/1ridescent3/",
+    navigate: "https://www.instagram.com/iridescentt2/",
   },
   {
     id: 2,
