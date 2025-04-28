@@ -60,7 +60,7 @@ const HomeContent = () => {
         variants={descriptionHomeVariants}
         className="md:text-[24px] max-w-3xl text-center text-slate-500 md:leading-10 leading-6"
       >
-        <span className="font-semibold">Hi! My Name Is Iridescent | Frontend Developer,</span> using Node.js for
+        <span className="font-semibold">Hi! My Name Is Hugo | Frontend Developer,</span> using Node.js for
         developing a website and web applications.
       </motion.p>
     </>
